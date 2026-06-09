@@ -5,7 +5,6 @@
 
 **Tema:** Proceso de compilación: Del código fuente al ejecutable
 
-
 ---
 
 ## Antes de empezar: ¿Cómo funciona este laboratorio?
